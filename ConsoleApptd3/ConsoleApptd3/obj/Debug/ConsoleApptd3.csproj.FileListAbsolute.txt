@@ -1,0 +1,7 @@
+C:\Users\chloe\source\repos\ConsoleApptd3\ConsoleApptd3\bin\Debug\ConsoleApptd3.exe.config
+C:\Users\chloe\source\repos\ConsoleApptd3\ConsoleApptd3\bin\Debug\ConsoleApptd3.exe
+C:\Users\chloe\source\repos\ConsoleApptd3\ConsoleApptd3\bin\Debug\ConsoleApptd3.pdb
+C:\Users\chloe\source\repos\ConsoleApptd3\ConsoleApptd3\obj\Debug\ConsoleApptd3.csproj.AssemblyReference.cache
+C:\Users\chloe\source\repos\ConsoleApptd3\ConsoleApptd3\obj\Debug\ConsoleApptd3.csproj.CoreCompileInputs.cache
+C:\Users\chloe\source\repos\ConsoleApptd3\ConsoleApptd3\obj\Debug\ConsoleApptd3.exe
+C:\Users\chloe\source\repos\ConsoleApptd3\ConsoleApptd3\obj\Debug\ConsoleApptd3.pdb
